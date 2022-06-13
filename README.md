@@ -4,10 +4,10 @@
 ~이 Repo는 수업 발표용으로 제작되었습니다.~
 
 ### 사용 라이브러리
-1. numpy
-2. opencv
-3. tesseract
-4. matplotlib
+1. [numpy](https://numpy.org/)
+2. [opencv](https://opencv.org/)
+3. [tesseract](https://github.com/tesseract-ocr/tesseract)
+4. [matplotlib](https://matplotlib.org/)
  - - -
 
 ## 실행방법
