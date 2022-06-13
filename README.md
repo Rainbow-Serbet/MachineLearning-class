@@ -15,7 +15,7 @@
 ```py
 9 : img_ori = cv2.imread("C:/Users/dudtj/Desktop/test/test.jpg")
 ```
-> 위 코드에 testCase의 파일 경로로 변경
+> 위 코드를 testCase의 파일 경로로 변경
 
 ```py
 325 : pytesseract.pytesseract.tesseract_cmd = ("C:\Program Files\Tesseract-OCR/tesseract.exe"
